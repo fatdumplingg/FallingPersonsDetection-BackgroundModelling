@@ -1,4 +1,4 @@
-## FallingPersonsDetection-BackgroundModelling
+## Falling Persons Detection with Background Modelling
 
 #### ⭐ Project Name : Falling Persons Detection using Background Modelling Concept
 #### ⌛ Related Class : Computer Vision 
